@@ -22,5 +22,7 @@ los pasos seguidos para este análisis fueron los siguientes:
 - Hallazgos
 
 
-cómo ejecutar el notebook (por ejemplo, abrirlo en Google Colab),
-una breve guía de reproducción.
+**¿Cómo ejecutar el notebook?**
+Al abrir directamente desde Github, seleccionar el proyecto titulado **sprint7-final-project**
+
+Desde la previsualización se puede evidenciar la totalidad del código, gráficos y numerales expuestos.
